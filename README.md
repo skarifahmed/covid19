@@ -16,7 +16,7 @@ V2 contains only trend data as we found that the weather does not contribute muc
 
 If you use these models in your research, please cite:
 
-	@article{pal2020neural,
+@article{pal2020neural,
   title={Neural network based country wise risk prediction of COVID-19},
   author={Pal, Ratnabali and Sekh, Arif Ahmed and Kar, Samarjit and Prasad, Dilip K},
   journal={Appl. Sci.},
