@@ -4,7 +4,7 @@ Each country contains seperate csv file (178 countries).
 The data consists of date, country, confirmed cases, recovered cases, total death. We have combined the data with weather data (source: https://darksky.net/) consists of humidity, dew, ozone, perception, max temperature, minimum temperature, and UV. We have considered mean and standard deviation over different cities of a country.
 
 # Note on V2 data
-V2 contains only trend data as we found that the wether does not contribute much in prediction
+V2 contains only trend data as we found that the weather does not contribute much in prediction
 
 # Sample Trend (India)
 ![India](India.png)
